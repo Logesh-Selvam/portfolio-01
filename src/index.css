@@ -1,0 +1,11 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  height: 100vh;
+  background: #aaa69d;
+  color: black;
+  /* background: #33d9b2;
+  color: white; */
+}

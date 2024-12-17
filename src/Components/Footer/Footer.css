@@ -1,0 +1,29 @@
+.footer{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    margin: 50px 170px;
+    justify-content:center;
+    align-items: center;
+}
+
+.logo{
+    padding: 0px 190px;
+}
+
+.footer-cool{
+    margin-bottom: 50px;
+}
+
+.footer-cool samp{
+    color: brown;
+    font-weight: 800;
+    font-size: 19px;
+    font-family: 'Permanent Marker';
+}
+
+@media(max-width:768px){
+    .footer{
+        margin: 50px 70px;
+    }
+}
